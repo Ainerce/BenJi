@@ -14,9 +14,9 @@ git commit -m“first commit”
 git remote rm origin
 git remote add origin git@github.com:Ainerce/BenJi.git
  git push -u origin master
+ 
 ...或从命令行推送现有存储库
 git remote add origin git@github.com:Ainerce / BenJi.git
  git push -u origin master
 ...或从另一个存储库导入代码
 您可以使用Subversion，Mercurial或TFS项目中的代码初始化此存储库。
-
